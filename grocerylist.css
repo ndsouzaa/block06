@@ -8,9 +8,9 @@
 
     }
 .freezer-items{
-  border: solid 2px lightpink;
+  border: solid 2px bisque;
   padding: 10px;
-  background-color: bisque;
+  background-color: lightpink;
   display: inline-block;
   width:150px;
   height: 150px;
@@ -22,7 +22,7 @@ h2{
   text-align: center;
   border-radius: 18px;
 }
-.photo{
+.pantry-photo{
   border: solid 2px lightpink;
   padding: 20px;
   background-color: bisque;
@@ -31,4 +31,13 @@ h2{
   height: 150px;
   margin:5px
 
+}
+.freezer-photo{
+  border: solid 2px bisque;
+  padding: 20px;
+  background-color: lightpink;
+  display: inline-block;
+  width:150px;
+  height: 150px;
+  margin:5px
 }
